@@ -1,6 +1,6 @@
-<h1>hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"> </ h1>
+<h1>hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"> </h1>
 
-I study cs. I like <i>machine learning</ i>.
+I study cs. I like <i>machine learning</i>.
 
 - 🔭 research: scaled ml, ml optimization, generative ml, continuous ml, AI alignment, algebraic geometry
 - 🌱 hobbies: anime, manga, tech, gaming
