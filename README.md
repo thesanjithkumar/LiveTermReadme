@@ -4,7 +4,7 @@ I study cs. I like **machine learning**.
 
 - 🔭 research: scaled ml, ml optimization, generative ml, continuous ml, AI alignment, algebraic geometry
 - 🌱 hobbies: product & software design, philosophy, guitar, gaming
-- 🌐 websites: [🖥️ official](https://sanjithkumar.tech) | [💻 terminal](https://cveinnt.com) 
+- 🌐 websites: [🖥️ official](https://sanjithkumar.tech) | [💻 terminal](https://sanjithkumarcli.vercel.app/) 
 <!-- - 🤷‍♂️ [what's cveinnt?](https://wensenwu.com/cveinnt) -->
 
 feel free to reach out if you want to collab!
