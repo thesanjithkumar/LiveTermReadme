@@ -4,7 +4,7 @@ I study cs. I like <i>machine learning</i>.
 
 - 🔭 research: AI, ML, Web, Tech
 - 🌱 hobbies: anime, manga, tech, gaming
-- 🌐 websites: [🖥️ official](https://sanjithkumar.tech) | [💻 terminal](https://sanjithkumarcli.vercel.app/) 
+- 🌐 websites: [🖥️ official](https://sanjithkumar.in) | [💻 terminal](https://sanjithkumarcli.vercel.app/) 
 <!-- - 🤷‍♂️ [what's cveinnt?](https://wensenwu.com/cveinnt) -->
 
 feel free to reach out if you want to collab!
